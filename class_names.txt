@@ -1,0 +1,15 @@
+bird
+butterfly
+camel
+dog
+elephant
+fish
+giraffe
+hedgehog
+parrot
+penguin
+shark
+sheep
+snail
+snake
+spider
